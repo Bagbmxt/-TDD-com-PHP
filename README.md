@@ -1,4 +1,4 @@
-Necessário instalar o Composer <br>
+<b>Necessário instalar o Composer <br>
 composer install
 
 
